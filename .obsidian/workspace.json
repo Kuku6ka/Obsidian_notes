@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4015dbb5e1189b82",
+            "id": "891214221ca36eae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Движок/Ну типо план.md",
+                "file": "конспекты по матеше/высшая математика/Теория множеств.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ну типо план"
+              "title": "Теория множеств"
             }
           }
         ]
@@ -40,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Файловый менеджер"
@@ -139,18 +140,31 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Движок/Ну типо план.md"
+                "file": "конспекты по матеше/высшая математика/Теория множеств.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Ну типо план"
+              "title": "Структура Теория множеств"
+            }
+          },
+          {
+            "id": "be5acb0561ad3ea2",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -159,11 +173,30 @@
       "canvas:Создать новый холст": false,
       "daily-notes:Сегодняшняя заметка": false,
       "templates:Вставить шаблон": false,
-      "command-palette:Открыть палитру команд": false
+      "command-palette:Открыть палитру команд": false,
+      "obsidian-git:Open Git source control": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Создать новый чертеж": false
     }
   },
-  "active": "4015dbb5e1189b82",
+  "active": "891214221ca36eae",
   "lastOpenFiles": [
+    "конспекты по матеше/высшая математика/Теория множеств.md",
+    "материалы/Теория множеств/Drawing 2025-02-11 21.01.01.excalidraw.md",
+    "материалы/Теория множеств/Drawing 2025-02-11 20.27.16.excalidraw.md",
+    "материалы/Теория множеств/Drawing 2025-02-11 20.06.17.excalidraw.md",
+    "материалы/Теория множеств/Без названия.md",
+    "материалы/Теория множеств/Drawing 2025-02-11 20.19.39.excalidraw.md",
+    "материалы/Теория множеств/Drawing 2025-02-11 20.15.19.excalidraw.md",
+    "материалы/Теория множеств/Без названия.canvas",
+    "материалы/Теория множеств",
+    "материалы/Теория множеств/Drawing 2025-02-11 19.51.07.excalidraw.md",
+    "материалы",
+    "конспекты по матеше/высшая математика",
+    "конспекты по матеше",
+    "C++/Basic language/C++ как смысл жизни.md",
+    "C++/Basic language",
+    "C++",
     "Движок/Ну типо план.md",
     "Движок"
   ]
